@@ -1,1 +1,1 @@
-1ª linha do arquivo 08/04 criada no repositório local. 
+Linha alterada no Github do navegador. 
