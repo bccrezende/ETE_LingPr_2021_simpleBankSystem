@@ -1,1 +1,2 @@
 Linha alterada no Github do navegador. 
+Simulando conflito 02.
