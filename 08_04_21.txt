@@ -1,3 +1,2 @@
-Linha alterada no Github do navegador. 
-Simulando conflito 02.
+Linha alterada no meu computador, simulando conflito 12/04.
 
