@@ -1,2 +1,2 @@
 Linha alterada no meu computador, simulando conflito 12/04.
-
+Simulando conflito no navegador.
